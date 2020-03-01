@@ -1,3 +1,3 @@
-# Diagrams
+# X-Box Controller Template
 
-![X-Box Controller](X-Box%20Controller.png)
+![alt text](X-Box%20Controller.png "X-Box Controller")
